@@ -1,0 +1,14 @@
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\bin\Debug\RoyCompiler.exe.config
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\bin\Debug\RoyCompiler.exe
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\bin\Debug\RoyCompiler.pdb
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\obj\Debug\RoyCompiler.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\obj\Debug\RoyCompiler.Form1.resources
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\obj\Debug\RoyCompiler.Properties.Resources.resources
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\obj\Debug\RoyCompiler.csproj.GenerateResource.Cache
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\obj\Debug\RoyCompiler.exe
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\obj\Debug\RoyCompiler.pdb
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\bin\Debug\Assemblies.txt
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\obj\Debug\RoyCompiler.AssemblyReferences.resources
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\bin\Debug\FastColoredTextBox.dll
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\bin\Debug\FastColoredTextBox.pdb
+E:\Programming\C#\Windows Form\RoyCompiler\RoyCompiler\bin\Debug\FastColoredTextBox.xml

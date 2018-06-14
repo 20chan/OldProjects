@@ -1,0 +1,10 @@
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\bin\Debug\[ Pythagoras ].exe.config
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\bin\Debug\[ Pythagoras ].exe
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\bin\Debug\[ Pythagoras ].pdb
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\obj\Debug\[ Pythagoras ].csprojResolveAssemblyReference.cache
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\obj\Debug\__Pythagoras__.Form1.resources
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\obj\Debug\__Pythagoras__.Properties.Resources.resources
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\obj\Debug\[ Pythagoras ].csproj.GenerateResource.Cache
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\obj\Debug\[ Pythagoras ].exe
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\obj\Debug\[ Pythagoras ].pdb
+E:\Programming\C#\Windows Form\[ Pythagoras ]\[ Pythagoras ]\obj\Debug\__Pythagoras__.Form2.resources

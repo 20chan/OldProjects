@@ -1,0 +1,15 @@
+Microsoft.Csharp
+System
+System.Core
+System.Data
+System.Data.DataSetExtensions
+System.Data.Linq
+System.Deployment
+System.Drawing
+System.Net
+system.Net.Http
+System.Web
+System.Windows
+System.Windows.Forms
+System.Xml
+System.Xml.Linq

@@ -1,0 +1,33 @@
+?비서 실행
+START
+?비서 중지
+STOP
+?인터넷 실행
+OPEN
+C:\Program Files\Internet Explorer\iexplore.exe?
+?네이버 열어
+OPEN
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe?http://www.naver.com
+SAY
+네이버를 열었습니다.
+?페이스북 열어
+OPEN
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe?facebook.com
+SAY
+페이스북을 열었습니다.
+SAY
+또 뭐 부탁하실 거 있으세요?
+?크롬 실행
+OPEN
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe?
+SAY
+크롬을 열었습니다.
+?역시 아무것도 하지 말아봐
+SAY
+흥 딱히 니가 좋아서 니 말을 듣는게 아니거든? 착각하지 마!
+?알씨모드 실행기
+OPEN
+C:\Users\arss3\Desktop\RCFinal.exe?
+?이렇게 해봐
+SENDKEY
+압트로 개 병신새끼

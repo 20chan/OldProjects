@@ -1,0 +1,111 @@
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe.config
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.pdb
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csprojResolveAssemblyReference.cache
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Main_Form.resources
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Properties.Resources.resources
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csproj.GenerateResource.Cache
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.exe
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.pdb
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Microsoft.Speech.dll
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandList.resources
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddCommand.resources
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Setting.resources
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Load.resources
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.dll
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\MIT_Hook.dll
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.pdb
+E:\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\MIT_Hook.pdb
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe.config
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.exe
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.pdb
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.pdb
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.dll
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.pdb
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandList.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Load.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Main_Form.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Properties.Resources.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Setting.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csproj.GenerateResource.Cache
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.KeysPressed.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.FileChangedLog.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandSet.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddWork.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CheckUpdate.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddCommand.resources
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\bin\Debug\Data\Image\image.png
+E:\Programming\C#\Windows Form\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandPanel.Voice.resources
+N:\C#\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe.config
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.exe
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.pdb
+N:\C#\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe
+N:\C#\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.pdb
+N:\C#\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.dll
+N:\C#\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.pdb
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csprojResolveAssemblyReference.cache
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddCommand.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddWork.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CheckUpdate.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandList.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandPanel.Voice.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandSet.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.FileChangedLog.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.KeysPressed.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Load.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Main_Form.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Properties.Resources.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Setting.resources
+N:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csproj.GenerateResource.Cache
+N:\C#\Assistant Manager\Assistant Manager\bin\Debug\Microsoft.Speech.dll
+N:\C#\Assistant Manager\Assistant Manager\bin\Debug\Data\Image\image.png
+E:\C#\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe.config
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.exe
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.pdb
+E:\C#\Assistant Manager\Assistant Manager\bin\Debug\Data\Image\image.png
+E:\C#\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe
+E:\C#\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.pdb
+E:\C#\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.dll
+E:\C#\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.pdb
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csprojResolveAssemblyReference.cache
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddCommand.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddWork.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CheckUpdate.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandList.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandPanel.Voice.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandSet.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.FileChangedLog.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.KeysPressed.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Load.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Main_Form.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Properties.Resources.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Setting.resources
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csproj.GenerateResource.Cache
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Interop.SpeechLib.dll
+E:\C#\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csproj.ResolveComReference.cache
+D:\C#\_Dead\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe.config
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Interop.SpeechLib.dll
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csproj.ResolveComReference.cache
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.exe
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.pdb
+D:\C#\_Dead\Assistant Manager\Assistant Manager\bin\Debug\Data\Image\image.png
+D:\C#\_Dead\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.exe
+D:\C#\_Dead\Assistant Manager\Assistant Manager\bin\Debug\Assistant Manager.pdb
+D:\C#\_Dead\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.dll
+D:\C#\_Dead\Assistant Manager\Assistant Manager\bin\Debug\CheckUpdate.pdb
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csprojResolveAssemblyReference.cache
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddCommand.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.AddWork.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CheckUpdate.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandList.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandPanel.Voice.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.CommandSet.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.FileChangedLog.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.KeysPressed.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Load.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Main_Form.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Properties.Resources.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant_Manager.Setting.resources
+D:\C#\_Dead\Assistant Manager\Assistant Manager\obj\Debug\Assistant Manager.csproj.GenerateResource.Cache

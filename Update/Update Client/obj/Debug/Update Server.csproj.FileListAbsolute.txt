@@ -1,0 +1,58 @@
+E:\C#\Windows Form\Update\Update Client\bin\Debug\Update Client.exe.config
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update Client.exe
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update Client.pdb
+E:\C#\Windows Form\Update\Update Client\bin\Debug\Settings.cfg
+E:\C#\Windows Form\Update\Update Client\bin\Debug\Update Client.exe
+E:\C#\Windows Form\Update\Update Client\bin\Debug\Update Client.pdb
+E:\C#\Windows Form\Update\Update Client\bin\Debug\Nemiro.OAuth.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\Nemiro.OAuth.LoginForms.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\Nemiro.OAuth.xml
+E:\C#\Windows Form\Update\Update Client\bin\Debug\ar\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\az\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\be\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\bg\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\cs\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\da\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\de\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\el\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\es\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\et\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\fi\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\fr\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\ga\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\he\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\hi\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\hr\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\hu\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\hy\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\is\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\it\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\ja\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\kk\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\ko\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\lt\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\lv\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\no\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\pl\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\pt\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\ro\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\ru\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\sk\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\sl\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\sq\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\sr\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\sv\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\tg\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\tr\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\uk\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\uz\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\vi\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\bin\Debug\zh\Nemiro.OAuth.LoginForms.resources.dll
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update Server.csprojResolveAssemblyReference.cache
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update_Client.Form1.resources
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update_Client.Form2.resources
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update_Client.F_Addone.resources
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update_Client.F_Credit.resources
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update_Client.Properties.Resources.resources
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update Server.csproj.GenerateResource.Cache
+E:\C#\Windows Form\Update\Update Client\obj\Debug\Update_Client.F_AddServer.resources

@@ -1,0 +1,9 @@
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\bin\Debug\GetRGB.exe.config
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\bin\Debug\GetRGB.exe
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\bin\Debug\GetRGB.pdb
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\obj\Debug\GetRGB.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\obj\Debug\GetRGB.Form1.resources
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\obj\Debug\GetRGB.Properties.Resources.resources
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\obj\Debug\GetRGB.csproj.GenerateResource.Cache
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\obj\Debug\GetRGB.exe
+E:\Programming\C#\Windows Form\GetRGB\GetRGB\obj\Debug\GetRGB.pdb

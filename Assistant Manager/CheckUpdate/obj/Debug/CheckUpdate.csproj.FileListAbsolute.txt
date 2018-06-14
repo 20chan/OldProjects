@@ -1,0 +1,10 @@
+E:\C#\Windows Form\Assistant Manager\CheckUpdate\obj\Debug\CheckUpdate.csprojResolveAssemblyReference.cache
+E:\C#\Windows Form\Assistant Manager\CheckUpdate\bin\Debug\CheckUpdate.dll
+E:\C#\Windows Form\Assistant Manager\CheckUpdate\bin\Debug\CheckUpdate.pdb
+E:\C#\Windows Form\Assistant Manager\CheckUpdate\obj\Debug\CheckUpdate.dll
+E:\C#\Windows Form\Assistant Manager\CheckUpdate\obj\Debug\CheckUpdate.pdb
+E:\Programming\C#\Windows Form\Assistant Manager\CheckUpdate\bin\Debug\CheckUpdate.dll
+E:\Programming\C#\Windows Form\Assistant Manager\CheckUpdate\bin\Debug\CheckUpdate.pdb
+E:\Programming\C#\Windows Form\Assistant Manager\CheckUpdate\obj\Debug\CheckUpdate.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Windows Form\Assistant Manager\CheckUpdate\obj\Debug\CheckUpdate.dll
+E:\Programming\C#\Windows Form\Assistant Manager\CheckUpdate\obj\Debug\CheckUpdate.pdb

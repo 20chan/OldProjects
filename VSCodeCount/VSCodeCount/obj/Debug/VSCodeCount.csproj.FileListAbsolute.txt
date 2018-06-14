@@ -1,0 +1,9 @@
+N:\C#\VSCodeCount\VSCodeCount\bin\Debug\VSCodeCount.exe.config
+N:\C#\VSCodeCount\VSCodeCount\bin\Debug\VSCodeCount.exe
+N:\C#\VSCodeCount\VSCodeCount\bin\Debug\VSCodeCount.pdb
+N:\C#\VSCodeCount\VSCodeCount\obj\Debug\VSCodeCount.csprojResolveAssemblyReference.cache
+N:\C#\VSCodeCount\VSCodeCount\obj\Debug\VSCodeCount.Form1.resources
+N:\C#\VSCodeCount\VSCodeCount\obj\Debug\VSCodeCount.Properties.Resources.resources
+N:\C#\VSCodeCount\VSCodeCount\obj\Debug\VSCodeCount.csproj.GenerateResource.Cache
+N:\C#\VSCodeCount\VSCodeCount\obj\Debug\VSCodeCount.exe
+N:\C#\VSCodeCount\VSCodeCount\obj\Debug\VSCodeCount.pdb

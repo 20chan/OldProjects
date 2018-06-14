@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.3.dtd">
+<dotfuscator version="2.3">
+  <!--This is application generated code. Do not edit manually.-->
+  <propertylist>
+    <property name="ILDASM_v2.0.50727" value="C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\ildasm.exe" />
+    <property name="ILDASM_v4.0.30319" value="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\ildasm.exe" />
+  </propertylist>
+  <input>
+    <loadpaths />
+    <asmlist>
+      <inputassembly refid="538534cc-9463-4852-96da-3e22923687d1">
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>transformxaml</option>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="TvpleCloudArtMaker.exe" />
+      </inputassembly>
+      <inputassembly refid="852cad09-ecef-4da9-8a58-59be1a1dbf34">
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <option>transformxaml</option>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="MaterialSkin.dll" />
+      </inputassembly>
+      <inputassembly refid="c7d94d45-0635-44a6-b335-767f61283d68">
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <option>transformxaml</option>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="MIT_Hook.dll" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="${configdir}\Dotfuscated" />
+  </output>
+  <renaming>
+    <option>xmlserialization</option>
+    <excludelist>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="MaterialSkin.dll" />
+      </assembly>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="MIT_Hook.dll" />
+      </assembly>
+    </excludelist>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="Map.xml" />
+        <transform />
+      </mapoutput>
+    </mapping>
+    <referencerulelist>
+      <referencerule rulekey="{89769974-93E9-4e71-8D92-BE70E855ACFC}" />
+      <referencerule rulekey="{6f022A59-3AD6-4C69-8D9B-6870B9B9E362}" />
+      <referencerule rulekey="{2B7E7C8C-A39A-4db8-9DFC-6AFD38509061}" />
+      <referencerule rulekey="{7D9C8B02-2383-420f-8740-A9760394C2C1}" />
+      <referencerule rulekey="{494EA3BA-B947-44B5-BEE8-A11CC85AAF9B}" />
+      <referencerule rulekey="{229FD6F8-5BCC-427b-8F72-A7A413ECDF1A}" />
+      <referencerule rulekey="{D97286EB-CF80-4ae8-94D4-E90131E6D0D7}" />
+      <referencerule rulekey="{6655B10A-FD58-462d-8D4F-5B1316DFF0FF}" />
+      <referencerule rulekey="{AB89403F-5E08-4adf-8386-6D34AF0ADBD3}" />
+    </referencerulelist>
+  </renaming>
+  <controlflow level="high" />
+  <stringencrypt>
+    <includelist>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="MaterialSkin.dll" />
+      </assembly>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="TvpleCloudArtMaker.exe" />
+      </assembly>
+    </includelist>
+  </stringencrypt>
+  <removal>
+    <option>disable</option>
+    <triggerlist>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="TvpleCloudArtMaker.exe" />
+      </assembly>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="MaterialSkin.dll" />
+      </assembly>
+    </triggerlist>
+    <referencerulelist />
+  </removal>
+  <premark>
+    <option>disable</option>
+    <assemblylist>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="TvpleCloudArtMaker.exe" />
+      </assembly>
+      <assembly>
+        <file dir="N:\C#\TvpleCloudArtMaker\TvpleCloudArtMaker\bin\Debug" name="MaterialSkin.dll" />
+      </assembly>
+    </assemblylist>
+    <encoding name="6bit-a" />
+  </premark>
+  <sos mergeruntime="true">
+    <option>dontsendtamper</option>
+  </sos>
+  <smartobfuscation>
+    <smartobfuscationreport verbosity="all" overwrite="false" />
+  </smartobfuscation>
+</dotfuscator>
